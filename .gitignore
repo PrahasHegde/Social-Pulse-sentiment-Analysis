@@ -1,0 +1,41 @@
+# Python Bytecode & Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Large Model Binaries & Assets (Keep model files local, do not commit 500MB+ models)
+model_assets/
+*.onnx
+*.bin
+*.safetensors
+*.h5
+*.pt
+*.pth
+
+# Dataset / Batch Outputs
+*.csv
+*.xlsx
+*.parquet
+!example_sample.csv # Optional: keep small example datasets
+
+# Streamlit Local Configurations & Secrets
+.streamlit/secrets.toml
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs & Temporary Files
+*.log
+.pytest_cache/
