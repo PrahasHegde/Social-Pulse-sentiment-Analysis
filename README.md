@@ -8,6 +8,9 @@ A production-grade, microservice-based Sentiment Analysis and Social Intelligenc
 ![Transformers](https://img.shields.io/badge/HuggingFace-RoBERTa-yellow)
 
 ---
+<img width="1857" height="1030" alt="image" src="https://github.com/user-attachments/assets/e39f6c58-d7af-45ae-83ff-3bcff6f85cfc" />
+
+---
 
 ## 🌟 Features
 
